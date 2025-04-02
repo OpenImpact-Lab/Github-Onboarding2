@@ -29,3 +29,7 @@ This section will cover how to create and submit pull requests for review.
 ## Code Review Process
 
 This section will outline the code review process and best practices for providing and receiving feedback.
+
+## Run Python Script
+
+Use python hello.py
