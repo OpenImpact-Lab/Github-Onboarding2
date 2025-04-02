@@ -33,3 +33,6 @@ This section will outline the code review process and best practices for providi
 ## Run Python Script
 
 Use python hello.py
+
+## LICENSE
+Free for anyone to use
