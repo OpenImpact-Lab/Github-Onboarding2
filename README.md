@@ -35,4 +35,4 @@ This section will outline the code review process and best practices for providi
 Use python hello.py
 
 ## LICENSE
-Free for anyone to use
+This project is licensed under the [MIT License](LICENSE).  See the `LICENSE` file for details.
